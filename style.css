@@ -90,5 +90,9 @@ footer {
 }
 
 footer p {
-    text-align: ;
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
 }
+
+@media (max-w)
